@@ -21,7 +21,8 @@ On progress...
 ### 2023 ICLR
 - Bridging the gap to real-world object-centric learning [[paper]](https://arxiv.org/abs/2209.14860)
   
----
+
+
 ## 2022
 ### 2022 NeurIPS
 - Vision GNN- An Image is Worth Graph of Nodes [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3743e69c8e47eb2e6d3afaea80e439fb-Abstract-Conference.html)
@@ -36,27 +37,32 @@ On progress...
 ### Nature
 - Image local structure information learning for fine‐grained visual classification [[paper]](https://www.nature.com/articles/s41598-022-23835-0)
 
----
+
+
 ## 2021
-### CVPR
+### 2021 CVPR
 - Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Zhu_Semantic_Relation_Reasoning_for_Shot-Stable_Few-Shot_Object_Detection_CVPR_2021_paper.html)
 
----
+
+
 ## 2020
 ### 2020 NeurIPS
 - Object-centric learning with slot attention [[paper]](https://proceedings.neurips.cc/paper/2020/hash/8511df98c02ab60aea1b2356c013bc0f-Abstract.html)
 ### 2020 Arxiv
 - On the Binding Problem in Artificial Neural Networks [[paper]](https://arxiv.org/abs/2012.05208)
   
----
+
+
 ## 2019
 
 
----
+
+
 ## 2018
 
 
----
+
+
 ## 2017
 ### CVPR
 - The more you know- Using knowledge graphs for image classification [[paper]](https://arxiv.org/abs/1612.04844)
