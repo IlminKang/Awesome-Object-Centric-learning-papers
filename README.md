@@ -64,10 +64,10 @@ List if Object-Centric learning (related) papers
 
 
 ## 2017
-### CVPR
+### 2017 CVPR
 - The more you know- Using knowledge graphs for image classification [[paper]](https://arxiv.org/abs/1612.04844)
 
-### IJCAI
+### 2017 IJCAI
 - Object Detection Meets Knowledge Graphs [[paper]](https://ink.library.smu.edu.sg/sis_research/4067/)
 
 
