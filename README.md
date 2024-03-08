@@ -1,6 +1,6 @@
-# Awesome-Object-Centric-learning
+# Awesome-Object-Centric-learning (On progress...)
 List if Object-Centric learning (related) papers 
-On progress...
+
 
 ## 2024
 - Paper [[paper]]()
