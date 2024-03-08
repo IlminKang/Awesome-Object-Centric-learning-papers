@@ -31,10 +31,10 @@ List if Object-Centric learning (related) papers
 ### 2022 SIBGRAPI
 - Superpixel image classification with graph attention networks [[paper]](https://ieeexplore.ieee.org/abstract/document/9265983)
 
-### 2022 TMI(IEEE transactions on medical imaging)
+### 2022 TMI
 - A graph-transformer for whole slide image classification [[paper]](https://ieeexplore.ieee.org/abstract/document/9779215)
 
-### Nature
+### 2022 Nature
 - Image local structure information learning for fine‐grained visual classification [[paper]](https://www.nature.com/articles/s41598-022-23835-0)
 
 
