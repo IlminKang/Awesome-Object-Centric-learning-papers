@@ -14,6 +14,7 @@ List if Object-Centric learning (related) papers
 - Self-supervised Object-Centric Learning for Videos [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/67b0e7c7c2a5780aeefe3b79caac106e-Abstract-Conference.html)
 - Towards Label-free Scene Understanding by Vision Foundation Models [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ef6c94e9cf4d169298479ee2e230ee13-Abstract-Conference.html)
 - Towards In-context Scene Understanding [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c94a632545000531f0b47000e9caa5b6-Abstract-Conference.html)
+- Hierarchical Open-vocabulary Universal Image Segmentation [[paper]](https://arxiv.org/abs/2307.00764)
 
 ### 2023 Arxiv
 - Object-Centric Slot Diffusion [[paper]](https://arxiv.org/abs/2303.10834)
