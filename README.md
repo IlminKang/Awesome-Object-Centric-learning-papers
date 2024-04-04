@@ -5,6 +5,9 @@ List if Object-Centric learning (related) papers
 ## 2024
 - Paper [[paper]]()
 
+### 2024 ICLR
+- Structured World Modeling via Semantic Vector Quantization [[paper]](https://openreview.net/forum?id=HYyRwm367m)
+
   
 ## 2023
 ### 2023 NeurIPS
