@@ -7,6 +7,7 @@ List if Object-Centric learning (related) papers
 
 ### 2024 ICLR
 - Structured World Modeling via Semantic Vector Quantization [[paper]](https://openreview.net/forum?id=HYyRwm367m)
+- Grounded Object-Centric Learning [[paper]](https://openreview.net/forum?id=pBxeZ6pVUD)
 
   
 ## 2023
