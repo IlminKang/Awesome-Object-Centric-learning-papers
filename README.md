@@ -74,6 +74,8 @@ List if Object-Centric learning (related) papers
 
 
 ## 2017
+### NeurIPS
+- Neural Discrete Representation Learning [[paper]](https://arxiv.org/abs/1711.00937)
 ### 2017 CVPR
 - The more you know- Using knowledge graphs for image classification [[paper]](https://arxiv.org/abs/1612.04844)
 
