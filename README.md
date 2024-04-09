@@ -58,6 +58,7 @@ List if Object-Centric learning (related) papers
 ### 2020 NeurIPS
 - Object-centric learning with slot attention [[paper]](https://proceedings.neurips.cc/paper/2020/hash/8511df98c02ab60aea1b2356c013bc0f-Abstract.html)
 - Unsupervised learning of visual features by contrasting cluster assignments [[paper]](https://arxiv.org/abs/2006.09882)
+- Self-Supervised Visual Representation Learning from Hierarchical Grouping [[paper]](https://proceedings.neurips.cc/paper/2020/hash/c1502ae5a4d514baec129f72948c266e-Abstract.html)
 ### 2020 Arxiv
 - On the Binding Problem in Artificial Neural Networks [[paper]](https://arxiv.org/abs/2012.05208)
   
