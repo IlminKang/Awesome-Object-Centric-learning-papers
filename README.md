@@ -1,5 +1,8 @@
 # Awesome-Object-Centric-learning (On progress...)
 List if Object-Centric learning (related) papers 
+- Object-Centric learning
+- Feature Clustering
+- (Semantic) Feature Quantization
 
 
 ## 2024
@@ -53,6 +56,7 @@ List if Object-Centric learning (related) papers
 ## 2020
 ### 2020 NeurIPS
 - Object-centric learning with slot attention [[paper]](https://proceedings.neurips.cc/paper/2020/hash/8511df98c02ab60aea1b2356c013bc0f-Abstract.html)
+- Unsupervised learning of visual features by contrasting cluster assignments [[paper]](https://arxiv.org/abs/2006.09882)
 ### 2020 Arxiv
 - On the Binding Problem in Artificial Neural Networks [[paper]](https://arxiv.org/abs/2012.05208)
   
